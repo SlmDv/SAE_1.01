@@ -1,0 +1,3 @@
+Pour lancer le projet, clonez ce dépôt si vous le pouvez, vous pouvez aussi récuperer le projet au format .zip. <br>
+Ouvrez le dossier projet-particules-v2, puis le dossier src, vous y trouverez un fichier executable project-particles. <br> Lancez-le. <br> <br>
+Les explications du fonctionnement de l'application, notemment du menu interactif, sont renseignées dans le README.md interne au dossier /src.
